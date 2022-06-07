@@ -1,5 +1,10 @@
 // operador condicional ternario
 
+/* El operador condicional (ternario) es el
+único operador en JavaScript que tiene
+tres operandos. Este operador se usa con
+frecuencia como atajo para la instrucción if. */
+
 const activo = true;
 
 /* let mensaje = '';
